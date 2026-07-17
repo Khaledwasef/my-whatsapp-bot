@@ -1,0 +1,5 @@
+2026/07/16-13:54:12.685 6f50 Creating DB C:\xampp\htdocs\readasalm\whatsapp_bot\.wwebjs_auth\session\Default\Local Storage\leveldb since it was missing.
+2026/07/16-13:54:12.701 6f50 Reusing MANIFEST C:\xampp\htdocs\readasalm\whatsapp_bot\.wwebjs_auth\session\Default\Local Storage\leveldb/MANIFEST-000001
+2026/07/16-16:40:40.905 2c28 Level-0 table #5: started
+2026/07/16-16:40:40.919 2c28 Level-0 table #5: 16908 bytes OK
+2026/07/16-16:40:40.926 2c28 Delete type=0 #3
